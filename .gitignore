@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+main2.py
+credential.py
+medicina-grad.py
+
+
 # C extensions
 *.so
 
